@@ -13,5 +13,5 @@ Preparing for a future track in Astronautical Engineering at SpaceX. Building a 
 # rocket-physics-simulators
 
 ### DAILY LOG OCTOBER 7, 2026
-EXECUTED WORKOUT
-ACTIVE DAILY DOCUMENTATION
+-EXECUTED WORKOUT
+-ACTIVE DAILY DOCUMENTATION
